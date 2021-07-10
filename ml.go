@@ -1,4 +1,4 @@
-package mil
+package ml
 
 type M = map[string]interface{}
 type I = []interface{}

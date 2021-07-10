@@ -1,3 +1,3 @@
-module github.com/ymzuiku/mil
+module github.com/ymzuiku/ml
 
 go 1.16
